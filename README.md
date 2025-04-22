@@ -13,7 +13,7 @@ This is a full-stack portfolio application designed to showcase my work, skills,
 - Contact Form: For potential employers/clients to reach out
 
 ## Technologies
-Frontend
-React.js (with hooks)
-
+### Frontend
+- React.js (with hooks)
+- Tailwind css
 
