@@ -4,26 +4,26 @@ const Features = () => {
   const features = [
     {
       icon: <Code2 className="h-6 w-6" />,
-      title: 'Frontend Development',
-      description: 'Building responsive and interactive user interfaces with React, Next.js, and TypeScript.',
+      title: 'Custom Website Development',
+      description: 'I build fully tailored websites from the ground up—whether it's a corporate site, personal brand, or custom web application. My focus is on clean code, scalable structure, and delivering a smooth user experience across all devices.',
       gradient: 'from-blue-500 to-cyan-500'
     },
     {
       icon: <Server className="h-6 w-6" />,
-      title: 'Backend Development',
-      description: 'Creating robust server-side applications with Node.js and Python.',
+      title: 'WordPress & CMS Solutions',
+      description: 'From custom themes and plugins to full WooCommerce setups, I help businesses make the most of WordPress. I ensure every site is easy to manage, SEO-ready, and built for performance.',
       gradient: 'from-purple-500 to-pink-500'
     },
     {
       icon: <Smartphone className="h-6 w-6" />,
-      title: 'Mobile development',
-      description: 'Designing and implementing efficient database solutions with PostgreSQL and MongoDB.',
+      title: 'E-Commerce Development',
+      description: 'I develop secure, high-converting online stores using WooCommerce and Laravel-based platforms. My e-commerce solutions include API integrations, payment gateways, and performance optimization to help your business grow online.',
       gradient: 'from-orange-500 to-red-500'
     },
     {
       icon: <Cpu className="h-6 w-6" />,
-      title: 'Data Science',
-      description: 'Architecting scalable and maintainable software systems.',
+      title: 'Performance & Optimization',
+      description: 'Slow sites lose visitors. I optimize websites for speed, mobile responsiveness, and SEO—ensuring your users have a fast, smooth experience that ranks well in search engines and keeps them engaged.',
       gradient: 'from-green-500 to-emerald-500'
     }
   ];
@@ -41,7 +41,7 @@ const Features = () => {
             About Me
           </h2>
           <p className="text-gray-400">
-            I'm a full stack developer with experience in TypeScript and JavaScript, specializing in frameworks like React, Node.js, and Three.js. I'm also a quick learner and enjoy collaborating closely with clients to create efficient, scalable, and user-friendly solutions that address real-world problems. Let's work together to bring your ideas to life!
+          I'm Henok, a dedicated and versatile website developer with over 7 years of experience building fast, modern, and functional websites using WordPress, Laravel, and other web technologies. I specialize in custom themes, plugin development, and performance optimization, with a strong focus on user experience and clean design. Whether it's launching e-commerce platforms, corporate websites, or custom web apps, I bring both technical expertise and creative problem-solving to every project I take on.
           </p>
         </div>
 

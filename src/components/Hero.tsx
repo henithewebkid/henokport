@@ -39,7 +39,7 @@ const Hero = () => {
             </a>
             <div className="flex gap-4">
               <a
-                href="https://github.com/ArafatMamia"
+                href="https://github.com/henithewebkid"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-gray-800 hover:bg-gray-700 transition-colors"
@@ -47,7 +47,7 @@ const Hero = () => {
                 <Github className="h-5 w-5 text-gray-300" />
               </a>
               <a
-                href="https://www.linkedin.com/in/arafat-mamia-2779a3312/"
+                href="https://www.linkedin.com/in/henokdemissie/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-gray-800 hover:bg-gray-700 transition-colors"
@@ -55,7 +55,7 @@ const Hero = () => {
                 <Linkedin className="h-5 w-5 text-gray-300" />
               </a>
               <a
-                href="mailto:arafmamia001@gmail.com"
+                href="mailto:demissiehenok4@gmail.com"
                 className="p-3 rounded-full bg-gray-800 hover:bg-gray-700 transition-colors"
               >
                 <Mail className="h-5 w-5 text-gray-300" />

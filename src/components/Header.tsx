@@ -23,7 +23,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <Code2 className="h-8 w-8 text-white" />
-            <span className="text-xl font-bold text-white">Arafat Mamia</span>
+            <span className="text-xl font-bold text-white">Henok Demissie</span>
           </div>
           
           <div className="hidden md:flex space-x-8">

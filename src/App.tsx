@@ -19,7 +19,7 @@ function App() {
       <footer className="border-t border-gray-800">
         <div className="container mx-auto px-6 py-12 text-center text-gray-400">
           <p>
-            © {new Date().getFullYear()} Arafat Mamia.
+            © {new Date().getFullYear()} henok demissie.
 
           </p>
         </div>
